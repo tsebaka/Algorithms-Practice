@@ -10,3 +10,4 @@
 05. [Z функция](https://github.com/tsebaka/Algorithms-Practice/blob/main/Algorithms/Prefix%20function.cpp)
 06. [Суффиксный массив](https://github.com/tsebaka/Algorithms-Practice/blob/main/Algorithms/suffix%20array.cpp)
 07. [LCP](https://github.com/tsebaka/Algorithms-Practice/blob/main/Algorithms/LCP.cpp)
+08. [Количество различных подстрок]()
